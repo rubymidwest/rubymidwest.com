@@ -205,7 +205,7 @@ textarea { overflow: auto; }
 #speakers .entry-body li { height: 100%; padding: 0 0 8px; }
 #speakers .entry-body ol ul { list-style: disc; }
 #speakers #top-bios { padding-bottom: 3px; }
-#speakers #top-bios .entry { width: 240px; padding-right: 5px; }
+#speakers #top-bios .entry { width: 235px; padding-right: 5px; }
 #speakers #top-bios .image img { display: block; margin-bottom: 6px; }
 #speakers #speaker-bios .speaker { padding: 12px 0; }
 #speakers #speaker-bios .speaker .image { width: 80px; top: -5px; position: relative; }
