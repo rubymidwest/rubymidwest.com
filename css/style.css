@@ -194,6 +194,7 @@ textarea { overflow: auto; }
 #bronze-sponsor {text-align: center; margin:0px auto; padding: 20px;}
 #bronze-sponsor .newrelic img { padding: 50px 10px;}
 #bronze-sponsor .codeclimate img { padding: 0 10px;}
+#bronze-sponsor .softek img { padding: 38px 0px;}
 #media-sponsors {text-align: center; width: 60%; margin:0px auto; background: #F1F1F1; padding: 20px; margin-bottom: 10px;  border-top: 1px solid #ddd; clear: both;}
 #media-sponsors h3 {margin-bottom: 10px;}
 #media-sponsors img {margin: 5px 10px;}
